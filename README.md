@@ -76,4 +76,4 @@ This is choice was made to increase the speed of the algorithm and to reduce mem
 	+ Output: The original phrase, a filtered phrase that is provided to the algorithm, and a table that returns the predicted words
 
 ### Shiny App
-Click [https://jdtcob.shinyapps.io/project/](https://jdtcob.shinyapps.io/project/) to view the working application.
+Click [https://jdtcob.shinyapps.io/project/](https://jdtcob.shinyapps.io/project/) to view the working application.# RaneemCapstoneRepo
